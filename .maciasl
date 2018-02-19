@@ -14,3 +14,5 @@
 [SYSTEM] Fix Mutex with non-zero SyncLevel     SYSTEM/system_Mutex.txt
 [SYSTEM] Fix PNOT/PPNT                         SYSTEM/system_PNOT.txt
 [MISC] Skylake LPC                           MISC/misc_Skylake-LPC.txt
+[MISC] Skylake LPC                           MISC/RENAMES.txt
+
