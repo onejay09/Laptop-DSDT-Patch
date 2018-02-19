@@ -1,0 +1,18 @@
+# HDAU PCI pin enable for hdau
+# for GL series laptop with Nvidia gfx to set magic bit to enable hd audio
+
+
+into method label _PRT parent_adr 0x00010000 remove_entry;
+into device name_adr 0x00010000 insert
+begin
+                Method (_PRT, 0, NotSerialized)\n
+                {\n
+                    Store (One, ^GFX0.NHDA)\n
+                    If (PICM)\n
+                    {\n
+                        Return (AR01)\n
+                    }\n
+
+                    Return (PR01)\n
+                }\n
+end;
