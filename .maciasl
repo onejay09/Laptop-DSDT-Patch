@@ -1,1 +1,3 @@
 [VOODOO] I2C Controllers [SKL]		VOODOO/SKYLAKE.txt
+[VOODOO] GPIO Controller Enable [SKL+]	VOODOO/GPIO.txt
+[VOODOO] GPIO Controller Enable [SKL+]	VOODOO/ELAN1200.txt
