@@ -1,4 +1,4 @@
-## RehabMan's laptop patch repository
+## laptop patch repository
 
 This set of patches can be used in MaciASL to apply
 some common patches to your laptop for running OS X.
