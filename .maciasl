@@ -1,3 +1,16 @@
 [VOODOO] I2C Controllers [SKL]		VOODOO/SKYLAKE.txt
 [VOODOO] GPIO Controller Enable [SKL+]	VOODOO/GPIO.txt
-[VOODOO] GPIO Controller Enable [SKL+]	VOODOO/ELAN1200.txt
+[VOODOO] GPIO Pinning - ELAN1200	VOODOO/ELAN1200.txt
+[AUDIO] FIX FOR NVDA HDMI AUDIO   AUDIO/HDAU-NVDA.txt
+[SNTAX] Rename _DSM methods to XDSM           SYNTAX/rename_DSM.txt
+[USB] USB3 _PRW 0x6D Skylake (wake)         USB/usb_prw_0x6d_xhc_skl.txt
+[BATTERY] ASUS G75VW                            BATTERY/battery_ASUS-G75vw.txt
+[SYSTEM] IRQ Fix                               SYSTEM/system_IRQ.txt
+[SYSTEM] SMBUS Fix                             SYSTEM/system_SMBUS.txt
+[SYSTEM] HPET Fix                              SYSTEM/system_HPET.txt
+[SYSTEM] MCHC Fix                              SYSTEM/system_MCHC.txt
+[SYSTEM] IMEI Fix                              SYSTEM/system_IMEI.txt
+[SYSTEM] Fix _WAK Arg0 v2                      SYSTEM/system_WAK2.txt
+[SYSTEM] Fix Mutex with non-zero SyncLevel     SYSTEM/system_Mutex.txt
+[SYSTEM] Fix PNOT/PPNT                         SYSTEM/system_PNOT.txt
+[MISC] Skylake LPC                           MISC/misc_Skylake-LPC.txt
